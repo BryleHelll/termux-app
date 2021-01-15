@@ -1,6 +1,6 @@
 # Termux application
 
-[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
+[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)] (https://github.com/termux/termux-app/actions)
 [![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/termux/termux-app/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
@@ -14,7 +14,7 @@ Note that this repository is for the app itself (the user interface and the
 terminal emulation). For the packages installable inside the app, see
 [termux/termux-packages](https://github.com/termux/termux-packages)
 
-## Installation
+## Installation (HI)
 
 Termux application can be obtained from:
 
